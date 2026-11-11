@@ -1,0 +1,11 @@
+httpx
+requests
+pydantic>=2
+python-dotenv
+numpy
+pandas
+matplotlib
+langchain
+langgraph
+langchain-openai
+ipykernel

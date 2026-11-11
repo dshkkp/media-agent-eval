@@ -1,0 +1,16 @@
+# API keys
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+.DS_Store
+Thumbs.db
