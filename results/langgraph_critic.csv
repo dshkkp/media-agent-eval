@@ -1,0 +1,51 @@
+id,answer,ok
+music-2026-01,"The Album of the Year at the 2026 Grammy Awards was won by Bad Bunny for his album ""Debí Tirar Más Fotos.""",True
+music-2026-02,"The song that won Record of the Year at the 2026 Grammy Awards was ""Luther"" by Kendrick Lamar.",True
+music-2026-03,ошибка: RuntimeError,False
+music-2026-04,ошибка: RuntimeError,False
+music-2026-05,ошибка: RuntimeError,False
+music-2026-06,ошибка: RuntimeError,False
+music-2026-07,ошибка: RuntimeError,False
+music-2026-08,ошибка: RuntimeError,False
+music-2026-09,"The title of DARA's winning Eurovision Song Contest entry in 2026 was ""Bangaranga.""",True
+music-2026-10,ошибка: RuntimeError,False
+film-2026-01,ошибка: RuntimeError,False
+film-2026-02,ошибка: RuntimeError,False
+film-2026-03,ошибка: RuntimeError,False
+film-2026-04,ошибка: RuntimeError,False
+film-2026-05,ошибка: RuntimeError,False
+film-2026-06,ошибка: RuntimeError,False
+film-2026-07,ошибка: RuntimeError,False
+film-2026-08,ошибка: RuntimeError,False
+film-2026-09,"The film that won the Golden Bear at the 2026 Berlin International Film Festival is ""Yellow Letters"" by İlker Çatak.",False
+film-2026-10,"Grant Gee won the 2026 Berlinale Silver Bear for Best Director for ""Everybody Digs Bill Evans.""",True
+series-2026-01,ошибка: RuntimeError,False
+series-2026-02,ошибка: RuntimeError,False
+series-2026-03,ошибка: RuntimeError,False
+series-2026-04,ошибка: RuntimeError,False
+series-2026-05,ошибка: RuntimeError,False
+music-before-2024-01,"Harry Styles won Album of the Year at the 2023 Grammy Awards for his album ""Harry's House.""",True
+music-before-2024-02,Lizzo won Record of the Year at the 2023 Grammy Awards.,False
+music-before-2024-03,ошибка: RuntimeError,False
+music-before-2024-04,ошибка: RuntimeError,False
+music-before-2024-05,ошибка: RuntimeError,False
+music-before-2024-06,ошибка: RuntimeError,False
+music-before-2024-07,ошибка: RuntimeError,False
+music-before-2024-08,ошибка: RuntimeError,False
+music-before-2024-09,ошибка: RuntimeError,False
+music-before-2024-10,ошибка: RuntimeError,False
+film-before-2024-01,ошибка: RuntimeError,False
+film-before-2024-02,"Will Smith won the 2022 Oscar for Best Actor for his role in ""King Richard.""",True
+film-before-2024-03,"Jessica Chastain won the 2022 Best Actress Oscar for her role in ""The Eyes of Tammy Faye.""",True
+film-before-2024-04,Troy Kotsur won the 2022 Best Supporting Actor Oscar for CODA.,True
+film-before-2024-05,ошибка: RuntimeError,False
+film-before-2024-06,ошибка: RuntimeError,False
+film-before-2024-07,ошибка: RuntimeError,False
+film-before-2024-08,ошибка: RuntimeError,False
+film-before-2024-09,ошибка: RuntimeError,False
+film-before-2024-10,ошибка: RuntimeError,False
+series-before-2024-01,ошибка: RuntimeError,False
+series-before-2024-02,ошибка: RuntimeError,False
+series-before-2024-03,ошибка: RuntimeError,False
+series-before-2024-04,ошибка: RuntimeError,False
+series-before-2024-05,ошибка: RuntimeError,False

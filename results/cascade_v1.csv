@@ -1,0 +1,53 @@
+id,answer,ok,escalated,calls,tokens,cost
+music-2026-02,"The song **""Luther""** by Kendrick Lamar won **Record of the Year** at the 2026 Grammy Awards (68th Annual Grammy Awards), held on February 1, 2026. It was Kendrick Lamar's second consecutive Record of the Year win.",True,True,13,9797,0.0146529
+music-2026-05,"Lola Young won the 2026 Grammy Award for Best Pop Solo Performance with her song **""Messy""**, which took home the award at the 68th Annual Grammy Awards.",True,True,12,8227,0.013556099999999998
+music-2026-01,The **2026 Grammy Awards (68th Annual Grammy Awards)** awarded **Album of the Year** to ***Debí Tirar Más Fotos*** by **Bad Bunny**. It made history as the first Spanish-language album and only the third album by a Latino artist to win the prestigious honor.,True,True,18,15599,0.019953600000000002
+music-2026-03,I don't know.,False,False,15,13133,0.0018211500000000003
+music-2026-04,I don't know.,False,False,15,12834,0.00168585
+music-2026-06,I don't know.,False,False,15,9921,0.0016195500000000002
+music-2026-07,Olivia Dean won the 2026 BRIT Award for British Album of the Year.,False,False,14,11271,0.0018315
+music-2026-08,"**Bulgaria** won the 2026 Eurovision Song Contest with the song **""Bangaranga""**, performed by **Dara**. The contest was held in Vienna, Austria on May 16, 2026.",True,True,8,4494,0.008092950000000002
+music-2026-09,"The title of **DARA**'s winning Eurovision Song Contest 2026 entry was **""Bangaranga""**.",True,True,9,5557,0.0080895
+music-2026-10,I don't know.,False,False,15,10627,0.0017209499999999997
+film-2026-01,"**""One Battle After Another""** won Best Picture at the 98th Academy Awards, held on March 15, 2026. The film led the night with six wins in total, including the inaugural award for Best Casting.",True,True,19,13848,0.020442600000000002
+film-2026-02,"Michael B. Jordan won the 2026 Oscar for Best Actor in a Leading Role for ""Sinners.""",True,False,9,4983,0.00084195
+film-2026-03,"Jessie Buckley won the 2026 Best Actress Oscar for her role in ""Hamnet.""",True,False,14,11643,0.0018927
+film-2026-04,I don't know.,False,False,15,10395,0.0016794
+film-2026-05,I don't know.,False,False,15,11045,0.00177915
+film-2026-06,"The song **""Golden""** from *KPop Demon Hunters* won the 2026 (98th Academy Awards) Oscar for Best Original Song.",True,True,14,14061,0.0323004
+film-2026-07,"The Palme d'Or at the 2026 Cannes Film Festival (79th edition) was won by **Fjord**, directed by Romanian filmmaker **Cristian Mungiu** — his second Palme d'Or win.",True,True,13,10025,0.02069325
+film-2026-08,"The film **Minotaur**, directed by Russian filmmaker **Andrey Zvyagintsev**, received the **Grand Prix** at the **2026 Cannes Film Festival**.",False,True,9,5096,0.01226325
+film-2026-09,The film **Yellow Letters** by director İlker Çatak won the **Golden Bear** at the **76th Berlin International Film Festival** in 2026.,False,True,8,4052,0.0075514499999999995
+film-2026-10,"Grant Gee won the 2026 Berlinale Silver Bear for Best Director for ""Everybody Digs Bill Evans.""",True,False,9,3483,0.0006237
+series-2026-01,I don't know.,False,False,15,7871,0.0013147499999999997
+series-2026-02,I don't know.,False,False,15,9420,0.0015525000000000003
+series-2026-03,"Rhea Seehorn won the 2026 Emmy for Lead Actress in a Drama Series for ""Pluribus.""",True,False,8,4033,0.00069675
+series-2026-04,**Hiro Murai** received the 2026 Emmy for comedy-series directing for *Widow's Bay*.,True,True,20,17244,0.027864149999999997
+series-2026-05,"Matthew Rhys won the 2026 Emmy for Outstanding Lead Actor in a Limited or Anthology Series for ""The Beast in Me.""",True,False,8,3625,0.00064005
+music-before-2024-01,"Harry Styles won Album of the Year at the 2023 Grammy Awards for his album ""Harry's House.""",True,False,11,6272,0.0010573499999999999
+music-before-2024-02,Lizzo won Record of the Year at the 2023 Grammy Awards.,False,False,9,4971,0.0008307
+music-before-2024-03,"Bonnie Raitt's song ""Just Like That"" won Song of the Year at the 2023 Grammys.",True,False,15,13632,0.00222885
+music-before-2024-04,I don't know.,False,False,15,12720,0.0020376
+music-before-2024-05,"Based on my research, I was unable to retrieve the exact song title from the search results. However, from general knowledge, **""My Universe""** by Coldplay and BTS won Best Pop Duo/Group Performance at the 65th Grammy Awards (2023).",False,True,19,14555,0.02499915
+music-before-2024-06,"Beyoncé's album ""Renaissance"" won the Best Dance/Electronic Music Album at the 2023 Grammys.",True,False,15,12237,0.00195945
+music-before-2024-07,"The Brandi Carlile song that won **Best Rock Performance** at the 2023 Grammy Awards (65th Annual Grammy Awards) was **""You and Me on the Rock""**, featuring Lucius.",False,True,17,14280,0.0202923
+music-before-2024-08,"The Wet Leg track that won Best Alternative Music Performance at the 2023 Grammys is ""Chaise Longue.""",True,False,6,2499,0.00044100000000000004
+music-before-2024-09,**Mr. Morale & The Big Steppers** by Kendrick Lamar won Best Rap Album at the 2023 Grammy Awards (65th Grammy Awards).,True,True,20,18362,0.024572999999999998
+music-before-2024-10,I don't know.,False,False,15,10330,0.0016813499999999999
+film-before-2024-01,"**CODA** won Best Picture at the **94th Academy Awards** (held in March 2022, honoring films from 2021). It was produced by Apple TV+ and made history as the first streaming service film to win Best Picture.
+
+*(Note: ""Everything Everywhere All at Once"" won Best Picture at the **95th Academy Awards** in March 2023, which is sometimes referred to as the ""2023 Oscars"" but honored 2022 films.)*",True,True,16,10792,0.014986200000000002
+film-before-2024-02,"Will Smith won the 2022 Oscar for Best Actor for his role in ""King Richard.""",True,False,15,10691,0.0017503500000000001
+film-before-2024-03,Jessica Chastain won the 2022 Best Actress Oscar for her role in The Eyes of Tammy Faye.,True,False,10,6213,0.0010421999999999999
+film-before-2024-04,**Troy Kotsur** won the 2022 Best Supporting Actor Oscar for his role in *CODA*. He made history as the first deaf man and the second deaf individual overall to win an acting Oscar.,True,True,14,10395,0.0148401
+film-before-2024-05,Ariana DeBose won the 2022 Best Supporting Actress Oscar for her role in West Side Story.,True,False,12,8187,0.0013526999999999999
+film-before-2024-06,**Encanto** won Best Animated Feature at the 2022 Oscars (94th Academy Awards).,True,True,19,16828,0.0262977
+film-before-2024-07,**Greig Fraser** won the 2022 Academy Award for Best Cinematography for *Dune* (2021). It was his first Oscar win in that category.,True,True,18,12680,0.0153591
+film-before-2024-08,Jane Campion won the 2022 Oscar for Best Director for The Power of the Dog.,True,False,9,5026,0.0008461499999999999
+film-before-2024-09,"The Japanese film **Drive My Car** (*Doraibu mai kā*), directed by **Ryûsuke Hamaguchi**, won the **2022 Oscar (94th Academy Awards) for Best International Feature Film**. It was based on a short story by Haruki Murakami.",True,True,15,12050,0.0148431
+film-before-2024-10,"I was unable to confirm the winner through my searches, but based on my knowledge, **Jenny Beavan** won the 2022 Oscar (94th Academy Awards) for Best Costume Design for *Cruella*.",True,True,20,16050,0.02409765
+series-before-2024-01,**Succession** won Outstanding Drama Series at the 2022 Emmy Awards.,True,True,16,10791,0.0128373
+series-before-2024-02,I don't know.,False,False,15,6701,0.0011388
+series-before-2024-03,"Based on my research, **""The White Lotus""** won Outstanding Limited or Anthology Series at the 2022 (74th) Emmy Awards.",True,True,20,12375,0.021299850000000002
+series-before-2024-04,**Zendaya** won the 2022 Emmy Award for Outstanding Lead Actress in a Drama Series for her role in *Euphoria*.,True,True,20,17226,0.0262716
+series-before-2024-05,"Lee Jung-jae won the 2022 Emmy for Lead Actor in a Drama Series for his role in ""Squid Game.""",True,False,15,10598,0.0017589

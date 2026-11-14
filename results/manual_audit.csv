@@ -1,0 +1,11 @@
+id,question,gold,prediction,ok,manual_correct,false_negative
+music-2026-03,Which song won Song of the Year at the 2026 Grammy Awards?,WILDFLOWER,I don't know.,False,False,False
+film-2026-04,Which film won Best Animated Feature at the 2026 Oscars?,KPop Demon Hunters,I don't know.,False,False,False
+series-2026-04,Who received the 2026 Emmy for comedy-series directing for Widow's Bay?,Hiro Murai,I don't know.,False,False,False
+music-2026-04,Who won Best New Artist at the 2026 Grammy Awards?,Olivia Dean,I don't know.,False,False,False
+film-2026-09,Which film won the Golden Bear at the 2026 Berlin International Film Festival?,Gelbe Briefe,"The film that won the Golden Bear at the 2026 Berlin International Film Festival is ""Yellow Letters"" by İlker Çatak.",False,True,True
+music-before-2024-10,Which Willie Nelson album won Best Country Album at the 2023 Grammys?,A Beautiful Time,I don't know.,False,False,False
+music-2026-07,Which album won the 2026 BRIT Award for British Album of the Year?,The Art of Loving,Olivia Dean won the 2026 BRIT Award for British Album of the Year.,False,False,False
+music-before-2024-04,Who won Best New Artist at the 2023 Grammy Awards?,Samara Joy,I don't know.,False,False,False
+music-before-2024-07,Which Brandi Carlile song won Best Rock Performance at the 2023 Grammys?,Broken Horses,I don't know.,False,False,False
+film-before-2024-10,Who won the 2022 Oscar for Costume Design for Cruella?,Jenny Beavan,I don't know.,False,False,False
